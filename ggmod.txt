@@ -1,0 +1,14 @@
+
+class ggmod{
+
+
+	public static void main(String[]args){
+		
+
+		System.out.println("AM021352\nChen4sh\n");
+
+
+	}
+
+
+}
